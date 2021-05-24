@@ -39,6 +39,9 @@
   <a href="https://www.facebook.com/virsginia/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/facebook.png"/>
   </a>
+    <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K2188291Z7">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/search.png"/>
+  </a>
   
 <p align=center>
 <em>Don't hesitate to get in touch!</em>
